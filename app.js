@@ -13,7 +13,8 @@ var animals = {
     "Pepito Grillo":"Kri Kri",
     "Pato Donald":"Kuak Kuak",
     "Donald Trum":"China China",
-    "Animal desconocido":"Holaaa"
+    "Animal desconocido":"Holaaa",
+    "Annimal definitivo":"Listo"
 }
 
 function getAnimal() {
