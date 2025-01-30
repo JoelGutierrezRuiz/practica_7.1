@@ -12,7 +12,9 @@ var animals = {
     "bird": "tweet",
     "Pepito Grillo":"Kri Kri",
     "Pato Donald":"Kuak Kuak",
-    "Donald Trum":"China China"
+    "Donald Trum":"China China",
+    "Animal desconocido":"Holaaa",
+    "Annimal definitivo":"Listo"
 }
 
 function getAnimal() {
